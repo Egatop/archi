@@ -1,0 +1,11 @@
+*.user
+*.exe
+*.log
+*.tmp
+x64/
+x86/
+Debug/
+bin/
+obj/
+.vscode/
+*.sln
